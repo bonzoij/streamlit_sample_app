@@ -1,4 +1,3 @@
-x = 10
-y = 20
-'x+y: ', x+y 
+import streamlit as st
 
+"hello world"
